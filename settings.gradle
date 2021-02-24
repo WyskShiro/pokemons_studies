@@ -1,2 +1,5 @@
 rootProject.name = "TestingCompose"
 include ':app'
+include ':datasource'
+include ':features'
+include ':features:list'
